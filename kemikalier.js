@@ -1,7 +1,9 @@
-var apple = new function() {
-    this.type = "macintosh";
+
+
+var kemikalie = new function() {
+    this.type = "T-röd";
     this.color = "red";
     this.getInfo = function () {
-        return this.color + ' ' + this.type + ' apple';
+        return this.color + ' ' + this.type + ' T-röd';
     };
 }
